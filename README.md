@@ -1,3 +1,8 @@
+# Phoenix
+
+Working my way through the [`Programming Phoenix`](https://pragprog.com/book/phoenix/programming-phoenix) book. I'll leave the default README intact below.
+
+
 # Rumbl
 
 To start your Phoenix app:
